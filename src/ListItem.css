@@ -1,0 +1,15 @@
+.ListItem {
+    margin: 10px;
+}
+.ListItem p {
+    display:inline
+}
+.ListItem button {
+    display: inline-flex;
+    height: 20px;
+    font-size: 10px;
+    align-content: center;
+    align-items: center;
+    vertical-align: center;
+}
+
